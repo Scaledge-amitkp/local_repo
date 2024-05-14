@@ -1,3 +1,7 @@
  Hi we are inlocal repo
  <b>
+<<<<<<< HEAD
  file is added to feature(main)
+=======
+ file is added to feature(fit)
+>>>>>>> fit
